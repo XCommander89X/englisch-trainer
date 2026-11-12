@@ -1,0 +1,1 @@
+﻿pdf.js 3.11.174 (Mozilla), Apache License 2.0, Quelle cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174, vom Commander 30.10. 15:30 abgelegt. Einbinden: <script src=lib/pdf.min.js>, pdfjsLib.GlobalWorkerOptions.workerSrc='lib/pdf.worker.min.js' (bei file:// ggf. disableWorker).
